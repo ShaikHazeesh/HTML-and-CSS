@@ -1,0 +1,54 @@
+.heading {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 48px;
+}
+.background-image {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.paragraph1 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.paragraph2 {
+    color: white;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.paragraph3 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.button {
+    background-color: orange;
+    color: white;
+    height: 40px;
+    width: 80px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.center {
+    text-align: center;
+}
+
+.paragraph4 {
+    color: white;
+    text-decoration: underline;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+}

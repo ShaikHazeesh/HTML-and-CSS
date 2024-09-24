@@ -1,0 +1,47 @@
+.backgroung-image{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.card{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #ffffff;
+    padding: 25px;
+}
+.main-heading{
+    font-size: 30px;
+    color: #5752ab;
+    font-family: "Bree Serif";
+}
+.paragraph{
+    font-size: 20px;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+.button1{
+    background-color: #ffffff;
+    font-size: 15px ;
+    border-color: #d7dfe9;
+    width: 125vw;
+    height: 38px;
+    color: black;
+    font-family: "Roboto";
+    margin-right: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+}
+.button2{
+    background-color: #5752ab;
+    font-size: 15px ;
+    border-color: #d7dfe9;
+    color: white;
+    font-family: "Roboto";
+    margin-left: 5px;
+    border-radius: 8px;
+    border-style:solid;
+    border-width: 1px;
+    width: 125vw;
+    height: 38px;
+}
